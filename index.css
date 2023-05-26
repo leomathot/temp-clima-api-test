@@ -1,0 +1,10 @@
+.ciudad {
+    background-color: #b7cfe7;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.ciudad:hover {
+    background-color: #a2c0e0;
+    cursor: pointer;
+}
